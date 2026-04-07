@@ -1,0 +1,10 @@
+[project]
+name = "almighty-random"
+version = "0.1.0"
+description = "Random games collection"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
